@@ -1,0 +1,5 @@
+com\reactive\app\loan\handler\LoanHandler.class
+com\reactive\app\loan\router\LoanRouter.class
+com\reactive\app\loan\domain\LoanDetails.class
+com\reactive\app\loan\LoanApplication.class
+com\reactive\app\loan\repository\LoanRepository.class
